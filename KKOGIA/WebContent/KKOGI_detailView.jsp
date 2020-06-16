@@ -12,7 +12,6 @@ function showBig(val){
 }
 </script>
 </head>
-
 <body  onload="init();">
  <h2 align="center"> 소고기 > 한우 > 안심 </h2>
  <hr width="340" align="center"></hr>
